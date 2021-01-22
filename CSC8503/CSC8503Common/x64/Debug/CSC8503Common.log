@@ -1,0 +1,29 @@
+﻿  Barrier.cpp
+  CollisionDetection.cpp
+C:\Users\Sachin Chopra\Documents\University\4th Year\CSC8503\8503Submission\8503 Release\CSC8503\CSC8503Common\CollisionDetection.cpp(528,35): warning C4305: 'argument': truncation from 'double' to 'float'
+  Debug.cpp
+  EnemyController.cpp
+C:\Users\Sachin Chopra\Documents\University\4th Year\CSC8503\8503Submission\8503 Release\CSC8503\CSC8503Common\EnemyController.cpp(5,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  GameObject.cpp
+  GameWorld.cpp
+  NavigationGrid.cpp
+  NavigationMesh.cpp
+  Pendulum.cpp
+  PhysicsObject.cpp
+  PhysicsSystem.cpp
+  PlayerObject.cpp
+C:\Users\Sachin Chopra\Documents\University\4th Year\CSC8503\8503Submission\8503 Release\CSC8503\CSC8503Common\PlayerObject.cpp(6,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  PositionConstraint.cpp
+  PushdownMachine.cpp
+  PushdownState.cpp
+  QuadTree.cpp
+  RenderObject.cpp
+  RotatingCube.cpp
+  StateMachine.cpp
+  StateTransition.cpp
+  Generating Code...
+C:\Users\Sachin Chopra\Documents\University\4th Year\CSC8503\8503Submission\8503 Release\CSC8503\CSC8503Common\PushdownMachine.cpp(42): warning C4715: 'NCL::CSC8503::PushdownMachine::Update': not all control paths return a value
+  Compiling...
+  Transform.cpp
+  Generating Code...
+  CSC8503Common.vcxproj -> C:\Users\Sachin Chopra\Documents\University\4th Year\CSC8503\8503Submission\8503 Release\x64\Debug\CSC8503Common.lib
